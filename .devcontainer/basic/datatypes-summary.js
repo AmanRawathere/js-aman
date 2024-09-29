@@ -33,3 +33,13 @@ const myFunction = function(){
 console.log(typeof bigNumber);
 
 // https://262.ecma-international.org/5.1/#sec-11.4.3
+// primitive ka matlab hota hai predefined uske opp non prim
+
+// ++++++++++++++++++++++++++++++++++++++++++++++++++
+
+// stack(primitive), heap(non primitive)
+
+let myYoutubeName = "THESUCEESTEEN"
+let anothername = "THESUCCESSTEEN"
+anothername = "aman kumar rawat"
+console.log(myYoutubeName)
